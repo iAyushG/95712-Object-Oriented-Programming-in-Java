@@ -1,5 +1,5 @@
 # 95712-Object-Oriented-Programming-in-Java
-This is a course at Heinz College @ CMU.
+This course is at Heinz College @ CMU.
 
 Description
 This course is an in-depth look at the popular programming language Java. It is not intended for first time programmers. An exemption exam is given to students during orientation.
