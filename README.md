@@ -1,3 +1,4 @@
+![image](https://github.com/iAyushG/95712-Object-Oriented-Programming-in-Java/assets/66333673/93991b50-8497-4edb-8fc0-2f4857d2cd42)
 # 95712-Object-Oriented-Programming-in-Java
 This course is at Heinz College @ CMU.
 
