@@ -17,3 +17,5 @@ After some preliminaries devoted to basic syntax and program structure, classes,
 5. Learn the principles of object oriented programming in Java with usage of classes, inheritance, polymorphism, interfaces, containers and design patterns - with the goal of understanding code reuse and building scalable programs.
 
 Be exposed to the SDLC (software development lifecycle) to understand how software applications are authored in industry.  This includes basic UML usage and design concepts.
+
+### Every folder has a Problem.md, it has the problem definition and the constraints.
