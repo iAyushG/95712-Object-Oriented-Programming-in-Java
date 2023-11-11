@@ -34,6 +34,7 @@ The regex to match a number: "[+-]?[0-9]+"
 The regex to match any of the four operators: "[-+/*]"
 
 Instructions:
+
 Create package named lab1
 
 Download and copy/import following files into the package:
