@@ -1,5 +1,3 @@
-package lab1;
-
 import java.util.Scanner;
 
 public class Tokenizer {
@@ -13,11 +11,8 @@ public class Tokenizer {
 		String str = input.nextLine();
 		Scanner tokens = new Scanner(str);  //scanner attached to a string
 		tokens.useDelimiter("\\s+");
-		String token = tokens.next();
-		double number = Double.parseDouble(token);
-		System.out.println(number);
 		while (tokens.hasNext()) {
-			token = tokens.next(); //break by whitespaces
+			String token = tokens.next(); //break by whitespaces
 			if (token.matches("[0-9]+")) 
 				System.out.println(token + ": it's a number");
 			else 
