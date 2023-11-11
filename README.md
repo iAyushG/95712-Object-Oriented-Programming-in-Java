@@ -18,4 +18,4 @@ After some preliminaries devoted to basic syntax and program structure, classes,
 
 Be exposed to the SDLC (software development lifecycle) to understand how software applications are authored in industry.  This includes basic UML usage and design concepts.
 
-### Every folder has a Problem.md, it has the problem definition and the constraints.
+### Every folder has a Problem.md, it contains the problem definition.
